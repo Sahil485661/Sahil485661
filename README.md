@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil485661
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning c++, JavaScript, DSA
+- 🌱 I’m learned frontend and now learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/sahil-vishwakarma-25b749256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
