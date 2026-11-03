@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m learned frontend and now learning Backend
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/sahil-vishwakarma-25b749256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me https://www.linkedin.com/in/sahil-vishwakarma-25b749256
 
 <!---
 Sahil485661/Sahil485661 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
